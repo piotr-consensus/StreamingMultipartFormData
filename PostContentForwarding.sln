@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReceivingApi", "ReceivingApi\ReceivingApi.csproj", "{0A0FA867-E6BD-475E-9C4C-DC2D70961DC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntegrationTests", "IntegrationTests\IntegrationTests.csproj", "{AE7EEA4F-A737-400E-B15B-FFD44CCB8E1B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A0FA867-E6BD-475E-9C4C-DC2D70961DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A0FA867-E6BD-475E-9C4C-DC2D70961DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A0FA867-E6BD-475E-9C4C-DC2D70961DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A0FA867-E6BD-475E-9C4C-DC2D70961DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE7EEA4F-A737-400E-B15B-FFD44CCB8E1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7EEA4F-A737-400E-B15B-FFD44CCB8E1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7EEA4F-A737-400E-B15B-FFD44CCB8E1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7EEA4F-A737-400E-B15B-FFD44CCB8E1B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
